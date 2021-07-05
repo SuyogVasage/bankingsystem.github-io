@@ -1,8 +1,7 @@
 # BasicBankingSystem
 Hello everyone!
-Hope you all are doing well.
 I am Suyog Vasage currently working as a Web Development and Designing Intern at The Sparks Foundation.
-This is the #task1 given to me.
+This is the #task1 of the internship.
 Task 1 - Basic banking System
 Create a simple dynamic website which has the following specs.
 
