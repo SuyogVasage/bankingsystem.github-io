@@ -1,7 +1,7 @@
 # BasicBankingSystem
 Hello everyone!
 Hope you all are doing well.
-I am Soumik Seal currently working as a Web Development and Designing Intern at The Sparks Foundation.
+I am Suyog Vasage currently working as a Web Development and Designing Intern at The Sparks Foundation.
 This is the #task1 given to me.
 Task 1 - Basic banking System
 Create a simple dynamic website which has the following specs.
@@ -12,5 +12,5 @@ Create a simple dynamic website which has the following specs.
 4. Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
 The repository contains all the details of the website.
-#GRIPJUNE21 #TheSparksFoundation
+#TheSparksFoundation
 Thank you.
