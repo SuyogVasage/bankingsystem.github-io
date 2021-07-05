@@ -5,8 +5,8 @@
   body{
     margin: 0px;
     padding: 0px;
-    background-image: linear-gradient(to bottom right,blue,skyblue);
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom right,rgb(223, 187, 89),rgb(89, 163, 233));
+    background-repeat: no-repeat
   }
   
   
@@ -25,7 +25,7 @@
     left: 0;
     height: 100px;
     width: 100%;
-    background-color: white;
+    background-color:rgb(221, 203, 213);
     box-shadow: 5px 10px 30px rgba(0,0,0,0.2);
     z-index: 1;
     margin-right: 60%;
@@ -62,7 +62,7 @@
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
-    color: black;
+    color: rgb(27, 10, 179);
   }
   
   a{
@@ -90,7 +90,7 @@
   }
   
   .linkedin img{
-    height: 55px;
+    height: 58px;
   }
   
   .creator{
@@ -117,7 +117,7 @@
     height: 100px;
     position: relative;
     animation-name:animez;
-    animation-duration: 4s;
+    animation-duration: 5s;
     animation-iteration-count:infinite;
   }
   @keyframes animez{
@@ -146,8 +146,8 @@
   
   .start{
     font-family: 'Reggae One', cursive;
-    background-color: blueviolet;
-    color: white;
+    background-color: rgb(188, 209, 96);
+    color: rgb(20, 9, 9);
     padding: 15px 45px;
     text-align: center;
     text-decoration: none;
@@ -160,7 +160,7 @@
   
   .start:hover{
     background-color: whitesmoke;
-    color: blueviolet;
+    color: rgb(34, 27, 41);
     border: 2px solid black;
     cursor: pointer;
   }
