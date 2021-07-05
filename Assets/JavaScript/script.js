@@ -4,7 +4,7 @@ function sendMoney(){
    var enterName = document.getElementById("enterName").value;
    var enterAmount = parseInt(document.getElementById("enterAmount").value);
 
-   if (enterAmount > 8000) {
+   if (enterAmount > 20000) {
       alert("Insufficient Balance.")
    } else {
       var findUserBankAccount = enterName + "BankBalance";
@@ -12,8 +12,8 @@ function sendMoney(){
       var myAccountBalance = parseInt(document.getElementById("myAccountBalance").innerText) - enterAmount
       document.getElementById("myAccountBalance").innerText = myAccountBalance
       document.getElementById(findUserBankAccount).innerHTML = finalAmount;
-      alert(`Successful Transaction !!  
-      INR ${enterAmount} is transferred successfully to ${enterName}@gmail.com.`)
+      alert(`Transaction Comleted!!  
+      INR ${enterAmount} is transferred successfully to ${enterName}@gmail.com `)
 
       // transaction history 
       var createPTag = document.createElement("li");
